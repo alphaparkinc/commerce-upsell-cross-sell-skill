@@ -1,0 +1,17 @@
+﻿{
+    "version":  "1.0.0",
+    "name":  "commerce-upsell-cross-sell-skill",
+    "outputs":  {
+                    "result_val":  {
+                                       "type":  "string"
+                                   }
+                },
+    "description":  "Commerce intelligent checkout upsell and cross-sell recommendation skill.",
+    "inputs":  {
+                   "input_val":  {
+                                     "type":  "string"
+                                 }
+               },
+    "author":  "alphaparkinc",
+    "prompt":  "Coordinate commerce-upsell-cross-sell-skill operations using the input configurations."
+}
