@@ -1,3 +1,3 @@
-﻿# commerce-upsell-cross-sell-skill
+# commerce-upsell-cross-sell-skill
 
-Ready to use SDK library for commerce-upsell-cross-sell-skill.
+Production-ready agent skill for Upsell and cross-sell rules.
